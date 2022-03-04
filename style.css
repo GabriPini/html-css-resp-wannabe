@@ -78,6 +78,7 @@ img {
       margin: 0;
       padding: 0;
       box-sizing: border-box;
+      
     }
     
     
@@ -119,5 +120,33 @@ img {
       float: left;
     }
     
+    #lezioni{
+      text-align: center;
+    }
+
+    /* BLOCCO STEPS */
+    #steps .row>.left,
+    #steps .row>.central,
+    #steps .row>.right {
+    float: left;
+    width: 100%;
+    }
+  /* BLOCCO why */
+    #why{
+      background-color: lightyellow;
+    }
+    
+    #why .row>.first,
+    #why .row>.second,
+    #why .row>.third{
+      margin-top: 0;
+    }
+  
+    #why .row img {
+      margin-top: 15px;
+    }
+
+
+
 }
   
