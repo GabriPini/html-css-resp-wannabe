@@ -145,7 +145,10 @@ img {
     #why .row img {
       margin-top: 15px;
     }
-
+    .row div{
+      font-size: 12px;
+    }
+    
 
 
 }
